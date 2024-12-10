@@ -1,5 +1,6 @@
 #include "StdAfx.h"
 #include <fstream>
+#include <thread>
 #include <chrono>
 
 #include "GuiHelpers.h"
